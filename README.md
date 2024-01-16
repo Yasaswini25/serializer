@@ -1,6 +1,6 @@
 # serializer
 ## Installation
-### IDE : VS Code,
+### IDE : VS Code,npm
 ### Commands that need to run in the terminal of vs code
 #### npm adduser
 ![landing](https://github.com/Yasaswini25/serializer/blob/main/Screenshot%202024-01-16%20071334.png)
@@ -13,3 +13,4 @@
 #### npm run build
 #### npm publish
 ![landing](https://github.com/Yasaswini25/serializer/blob/main/Screenshot%202024-01-16%20074928.png)
+
